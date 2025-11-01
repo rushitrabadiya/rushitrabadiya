@@ -4,7 +4,7 @@ Hello! 👋🏻 I'm **Rushit Rabadiya**,
 A passionate backend developer specializing in **Node.js**, with 6–8 months of hands-on experience building scalable and secure RESTful APIs. I enjoy working with databases, designing clean architectures, and solving real-world backend challenges with efficient code.
 
 You can find me on:  
-[🗄️ LinkedIn](https://www.linkedin.com/in/rushit-rabadiya) • [💻 GitHub](https://github.com/your-github-username)  
+[🗄️ LinkedIn](https://www.linkedin.com/in/rushit-rabadiya) • [💻 GitHub](https://github.com/rushitrabadiya)  
 <!-- Add your actual GitHub username above -->
 
 ---
