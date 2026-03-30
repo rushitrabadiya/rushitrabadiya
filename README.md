@@ -1,43 +1,90 @@
-# 🧑🏻‍💻 Backend Developer | Node.js
+# 🧑🏻‍💻 Rushit Rabadiya | Backend Developer (Node.js)
 
 Hello! 👋🏻 I'm **Rushit Rabadiya**,  
-A passionate backend developer specializing in **Node.js**, with 6–8 months of hands-on experience building scalable and secure RESTful APIs. I enjoy working with databases, designing clean architectures, and solving real-world backend challenges with efficient code.
+A passionate **Backend Developer** specializing in **Node.js**, with hands-on experience building **scalable, secure, and production-ready RESTful APIs**.
 
-You can find me on:  
-[🗄️ LinkedIn](https://www.linkedin.com/in/rushit-rabadiya) • [💻 GitHub](https://github.com/rushitrabadiya)  
-<!-- Add your actual GitHub username above -->
+I love designing clean architectures, working with databases, and solving real-world backend challenges with efficient code.
 
 ---
 
-## 🚀 Skills & Technologies
+## 🔗 Connect With Me
 
-**Languages & Frameworks:**  
-Node.js • Express.js • JavaScript • TypeScript
-
-**Databases:**  
-MongoDB • Mongoose • PostgreSQL • Sequelize
-
-**Authentication & Security:**  
-JWT • OAuth • Bcrypt • Role-Based Access
-
-**Tools & Utilities:**  
-Joi • Swagger • Postman • Docker • Git • GitHub • GitLab • VS Code
-
-**Cloud & Services:**  
-AWS S3 (Basic) • Firebase (Basic) • Cloudinary
+- 🗄️ LinkedIn: https://www.linkedin.com/in/rushit-rabadiya  
+- 💻 GitHub: https://github.com/rushitrabadiya  
 
 ---
 
-## 💫 What I Bring
+## 🚀 Skills & Technologies  
 
-- ✅ Solid backend development experience using **Node.js** and **Express**.
-- ✅ Built real-world applications with features like **authentication**, **admin dashboards**, and **user management systems**.
-- ✅ Skilled in designing **RESTful APIs**, working with **MongoDB/PostgreSQL**, and writing **modular, maintainable code**.
-- ✅ Eager to learn, grow, and contribute to meaningful projects with modern development practices.
-- ✅ Great team player with experience in agile environments and tight delivery timelines.
+### 💻 Languages & Frameworks  
+- Node.js  
+- Express.js  
+- JavaScript  
+- TypeScript  
+
+### 🗄️ Databases  
+- MongoDB  
+- Mongoose  
+- PostgreSQL  
+- Sequelize  
+
+### 🔐 Authentication & Security  
+- JWT (JSON Web Token)  
+- OAuth  
+- Bcrypt  
+- Role-Based Access Control (RBAC)  
+
+### 🛠️ Tools & Utilities  
+- Joi Validation  
+- Swagger (API Documentation)  
+- Postman  
+- Docker  
+- Git & GitHub  
+- GitLab  
+- VS Code  
+
+### ☁️ Cloud & Services  
+- AWS S3 (Basic)  
+- Firebase (Basic)  
+- Cloudinary  
 
 ---
 
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+## 💫 What I Bring  
 
-Thanks for visiting my profile! Feel free to check out my repositories. 🚀
+- ✅ Strong backend development using **Node.js & Express.js**  
+- ✅ Built real-world applications with **authentication & admin systems**  
+- ✅ Skilled in designing **RESTful APIs**  
+- ✅ Experience with **MongoDB & PostgreSQL**  
+- ✅ Focus on **clean, modular, and scalable code**  
+- ✅ Familiar with **Agile workflows & team collaboration**  
+- ✅ Quick learner with a growth mindset  
+
+---
+
+## 🔥 Current Focus  
+
+- 🚀 Building scalable systems using **TypeScript**  
+- 🔐 Advanced **Authentication & Authorization**  
+- 📦 Designing reusable **Service Layer Architecture**  
+- ☁️ Learning **Cloud Deployment & Optimization**  
+
+---
+
+## 📊 GitHub Stats  
+
+![Rushit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushitrabadiya&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushitrabadiya&layout=compact&theme=tokyonight)
+
+---
+
+## 🧠 Quote  
+
+> 💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+
+---
+
+## 🙌 Thanks for Visiting!  
+
+⭐ Feel free to check out my repositories and connect with me!
