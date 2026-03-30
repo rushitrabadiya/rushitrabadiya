@@ -71,12 +71,6 @@ I love designing clean architectures, working with databases, and solving real-w
 
 ---
 
-## 📊 GitHub Stats  
-
-![Rushit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushitrabadiya&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushitrabadiya&layout=compact&theme=tokyonight&cache_seconds=86400)
-
 ---
 
 ## 🧠 Quote  
