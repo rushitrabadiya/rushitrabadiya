@@ -23,6 +23,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-%40rushit--rabadiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
   </a>
   &nbsp;
+  <a href="https://rushitrabadiya.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117"/>
+  </a>
+  &nbsp;
   <a href="mailto:rushitrabadiya.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-rushitrabadiya.work-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
   </a>
@@ -65,6 +69,7 @@ led: Team of 6 Engineers
 api_sla: < 100ms at peak load
 status: Available for new opportunities
 email: rushitrabadiya.work@gmail.com
+portfolio: https://rushitrabadiya.github.io/
 ```
 
 <br clear="right"/>
@@ -312,6 +317,10 @@ email: rushitrabadiya.work@gmail.com
 <p align="center">
   <a href="https://www.linkedin.com/in/rushit-rabadiya">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="42"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://rushitrabadiya.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" height="42"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:rushitrabadiya.work@gmail.com">
