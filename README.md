@@ -50,23 +50,20 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-# rushit.yaml
-name: Rushit Rabadiya
-role: Senior Software Developer @ Edzyme Tech Pvt Ltd
-location: Ahmedabad, Gujarat, India
-experience: 2.5+ years
-core_competencies:
-  - Backend Architecture (Node.js/TS)
-  - Hybrid Database Design (PostgreSQL + MongoDB)
-  - Async Processing (Redis + BullMQ)
-  - AI & RAG Pipelines (LLM Orchestration)
-  - Cloud & DevOps (Docker, AWS, CI/CD)
-leadership: Managed & mentored a team of 6 engineers
-status: Available for new opportunities
-contact: rushitrabadiya.work@gmail.com
-portfolio: https://rushitrabadiya.github.io/
-```
+> **Rushit Rabadiya**  
+> _Senior Software Developer @ Edzyme Tech Pvt Ltd_  
+> 📍 Ahmedabad, Gujarat, India | ⏱️ 2.5+ Years of Experience  
+> ✉️ **Contact:** [rushitrabadiya.work@gmail.com](mailto:rushitrabadiya.work@gmail.com) | 🌐 **Portfolio:** [rushitrabadiya.github.io](https://rushitrabadiya.github.io/)
+
+**Core Competencies:**
+
+- 🏛️ **Backend Architecture** (Node.js/TypeScript)
+- 🗄️ **Hybrid Database Design** (PostgreSQL + MongoDB)
+- ⚡ **Async Processing** (Redis + BullMQ)
+- 🤖 **AI & RAG Pipelines** (LLM Orchestration)
+- ☁️ **Cloud & DevOps** (Docker, AWS, CI/CD)
+- 👥 **Leadership** (Managed & mentored a team of 6 engineers)
+- 🎯 **Status** (Available for new opportunities)
 
 <br/>
 
@@ -277,10 +274,6 @@ portfolio: https://rushitrabadiya.github.io/
   <br/>
   <a href="https://github.com/rushitrabadiya">
     <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://kipiapp.in">
-    <img src="https://img.shields.io/badge/Product-kipiapp.in-22D3EE?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
