@@ -9,34 +9,36 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rushitrabadiya&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rushitrabadiya&style=for-the-badge&color=7C3AED" alt="Profile Views"/>
   &nbsp;
   <a href="https://github.com/rushitrabadiya?tab=followers">
-    <img src="https://img.shields.io/github/followers/rushitrabadiya?label=Followers&style=for-the-badge&color=A855F7&labelColor=0D1117" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/rushitrabadiya?label=Followers&style=for-the-badge&color=A855F7&logo=github&logoColor=white" alt="Followers"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-New%20Opportunities-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Open To Work"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-22D3EE?style=for-the-badge&logo=rocket&logoColor=white" alt="Open To Work"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rushit-rabadiya">
-    <img src="https://img.shields.io/badge/LinkedIn-%40rushit--rabadiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-  </a>
-  &nbsp;
-  <a href="https://rushitrabadiya.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%40rushit--rabadiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:rushitrabadiya.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rushitrabadiya.work-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/Email-rushitrabadiya.work-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
+  <a href="https://rushitrabadiya.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-rushitrabadiya.github.io-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://kipiapp.in">
-    <img src="https://img.shields.io/badge/Live%20Product-kipiapp.in-22D3EE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/Product-kipiapp.in-22D3EE?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.mahavirco.com">
-    <img src="https://img.shields.io/badge/Client%20Site-mahavirco.com-A855F7?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/Client%20Site-mahavirco.com-A855F7?style=for-the-badge&logo=safari&logoColor=white"/>
   </a>
 </p>
 
@@ -46,44 +48,38 @@
 
 <br/>
 
-## About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340"/>
+## 👨‍💻 About Me
 
 ```yaml
 # rushit.yaml
 name: Rushit Rabadiya
+role: Senior Software Developer @ Edzyme Tech Pvt Ltd
 location: Ahmedabad, Gujarat, India
-company: Edzyme Tech Pvt Ltd
-role: Senior Software Developer
-exp: 2.5+ years
-
-skills:
-  - Node.js + TypeScript     (Backend Lead)
-  - PostgreSQL + MongoDB     (Hybrid Arch)
-  - Redis + BullMQ           (Async Queues)
-  - Docker + AWS + CI/CD     (DevOps)
-  - RAG + LLM Orchestration  (AI/ML)
-
-led: Team of 6 Engineers
-api_sla: < 100ms at peak load
+experience: 2.5+ years
+core_competencies:
+  - Backend Architecture (Node.js/TS)
+  - Hybrid Database Design (PostgreSQL + MongoDB)
+  - Async Processing (Redis + BullMQ)
+  - AI & RAG Pipelines (LLM Orchestration)
+  - Cloud & DevOps (Docker, AWS, CI/CD)
+leadership: Managed & mentored a team of 6 engineers
 status: Available for new opportunities
-email: rushitrabadiya.work@gmail.com
+contact: rushitrabadiya.work@gmail.com
 portfolio: https://rushitrabadiya.github.io/
 ```
 
-<br clear="right"/>
-
 <br/>
 
-### What I bring to the table
+### 🚀 What I bring to the table
 
-- **Backend Architecture** — Designed production systems serving thousands of concurrent users
-- **Hybrid Databases** — PostgreSQL + MongoDB across microservices (Kipi ERP)
-- **Async Processing** — Redis + BullMQ pipelines for notifications, PDF gen, payments
-- **AI / RAG** — Multi-provider LLM failover (Gemini → Groq → Ollama), pgvector, local models
-- **DevOps** — Docker, AWS EC2/S3, GitHub Actions CI/CD, Nginx
-- **Leadership** — Led 6-engineer team, owned architecture decisions and production releases
+> I specialize in building highly scalable, fault-tolerant backend systems that deliver high performance even under massive load.
+
+- 🏗️ **Backend Architecture** — Designed production systems serving thousands of concurrent users with `< 100ms` API latency.
+- 🗄️ **Hybrid Databases** — Seamlessly integrated PostgreSQL + MongoDB across distributed microservices.
+- ⚡ **Async Processing** — Built robust Redis + BullMQ pipelines for push notifications, heavy PDF generation, and payment webhooks.
+- 🤖 **AI / RAG Systems** — Implemented multi-provider LLM failovers (Gemini → Groq → Ollama), leveraging `pgvector` for accurate local and cloud retrieval.
+- ☁️ **DevOps & Cloud** — Managed deployments across AWS (EC2/S3) using Docker, Nginx, and automated GitHub Actions CI/CD pipelines.
+- 👥 **Leadership** — Acted as a Technical Lead for 6 engineers, owning critical architecture decisions and driving production releases.
 
 <br/>
 
@@ -219,13 +215,13 @@ portfolio: https://rushitrabadiya.github.io/
 ## Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Udemy-Node.js%20%2B%20Express%20%2B%20MongoDB%20Bootcamp-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Udemy-Node.js%20%2B%20Express%20%2B%20MongoDB%20Bootcamp-EC5252?style=for-the-badge&logo=udemy&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/freeCodeCamp-JS%20Algorithms%20%26%20Data%20Structures-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/freeCodeCamp-JS%20Algorithms%20%26%20Data%20Structures-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-Introduction%20to%20MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-Introduction%20to%20MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-Getting%20Started%20with%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/MongoDB-Getting%20Started%20with%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 <br/>
@@ -268,23 +264,23 @@ portfolio: https://rushitrabadiya.github.io/
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rushit-rabadiya">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="42"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://rushitrabadiya.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" height="42"/>
+    <img src="https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:rushitrabadiya.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="42"/>
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  <br/>
   <a href="https://github.com/rushitrabadiya">
-    <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="42"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://kipiapp.in">
-    <img src="https://img.shields.io/badge/Product-kipiapp.in-22D3EE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" height="42"/>
+    <img src="https://img.shields.io/badge/Product-kipiapp.in-22D3EE?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -295,9 +291,7 @@ portfolio: https://rushitrabadiya.github.io/
 </p>
 
 <p align="center">
-  <sub>
-    <img src="https://img.shields.io/badge/Backend%20Developer-Node.js%20%7C%20TypeScript%20%7C%20AWS-7C3AED?style=flat-square&labelColor=0D1117"/>
-    &nbsp;|&nbsp;
-    <img src="https://img.shields.io/badge/Ahmedabad-Gujarat%2C%20India-A855F7?style=flat-square&labelColor=0D1117"/>
-  </sub>
+  <img src="https://img.shields.io/badge/Backend%20Developer-Node.js%20%7C%20TypeScript%20%7C%20AWS-7C3AED?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ahmedabad-Gujarat%2C%20India-A855F7?style=for-the-badge"/>
 </p>
