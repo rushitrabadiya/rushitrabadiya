@@ -32,7 +32,7 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://kipiapp.in">
     <img src="https://img.shields.io/badge/Product-kipiapp.in-22D3EE?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
@@ -40,7 +40,7 @@
   <a href="https://www.mahavirco.com">
     <img src="https://img.shields.io/badge/Client%20Site-mahavirco.com-3B82F6?style=for-the-badge&logo=safari&logoColor=white"/>
   </a>
-</p>
+</p> -->
 
 <br/>
 
