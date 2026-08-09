@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Rushit%20Rabadiya&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20AI%20%2F%20RAG%20Builder&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rushit%20Rabadiya&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Backend%20Systems%20%7C%20System%20Design&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=640&lines=Backend+Developer+%F0%9F%9A%80;API+Architect+%E2%9A%A1;System+Designer+%F0%9F%8F%97%EF%B8%8F;DevOps+Engineer+%F0%9F%90%B3;AI+%2F+RAG+Builder+%F0%9F%A4%96;Open+for+Opportunities+%F0%9F%91%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=640&lines=Software+Engineer+%F0%9F%9A%80;Backend+Architect+%E2%9A%A1;System+Designer+%F0%9F%8F%97%EF%B8%8F;DevOps+Engineer+%F0%9F%90%B3;Exploring+AI+%2F+RAG+%F0%9F%A4%96;Open+for+Opportunities+%F0%9F%91%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rushitrabadiya&style=for-the-badge&color=7C3AED" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rushitrabadiya&style=for-the-badge&color=2563EB" alt="Profile Views"/>
   &nbsp;
   <a href="https://github.com/rushitrabadiya?tab=followers">
-    <img src="https://img.shields.io/github/followers/rushitrabadiya?label=Followers&style=for-the-badge&color=A855F7&logo=github&logoColor=white" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/rushitrabadiya?label=Followers&style=for-the-badge&color=3B82F6&logo=github&logoColor=white" alt="Followers"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-22D3EE?style=for-the-badge&logo=rocket&logoColor=white" alt="Open To Work"/>
@@ -28,7 +28,7 @@
   </a>
   &nbsp;
   <a href="https://rushitrabadiya.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-rushitrabadiya.github.io-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-rushitrabadiya.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
@@ -38,7 +38,7 @@
   </a>
   &nbsp;
   <a href="https://www.mahavirco.com">
-    <img src="https://img.shields.io/badge/Client%20Site-mahavirco.com-A855F7?style=for-the-badge&logo=safari&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Client%20Site-mahavirco.com-3B82F6?style=for-the-badge&logo=safari&logoColor=white"/>
   </a>
 </p>
 
@@ -50,33 +50,35 @@
 
 ## 👨‍💻 About Me
 
-> **Rushit Rabadiya**  
-> _Senior Software Developer @ Edzyme Tech Pvt Ltd_  
-> 📍 Ahmedabad, Gujarat, India | ⏱️ 2.5+ Years of Experience  
+> **Rushit Rabadiya**
+> _Senior Software Engineer @ Edzyme Tech Pvt Ltd_
+> 📍 Ahmedabad, Gujarat, India | ⏱️ 2.5+ Years of Experience
 > ✉️ **Contact:** [rushitrabadiya.work@gmail.com](mailto:rushitrabadiya.work@gmail.com) | 🌐 **Portfolio:** [rushitrabadiya.github.io](https://rushitrabadiya.github.io/)
+
+Software Engineer with 2.5 years of experience building scalable backend systems using Node.js, Express.js, and TypeScript. Strong in RESTful API design, hybrid database architecture (PostgreSQL, MongoDB, Redis), and containerized deployment (Docker, AWS EC2/S3, CI/CD). Currently exploring applied AI as a growing area alongside backend engineering — hands-on experimentation with RAG pipelines, vector databases, LLM integration, and multi-provider AI orchestration.
 
 **Core Competencies:**
 
-- 🏛️ **Backend Architecture** (Node.js/TypeScript)
+- 🏛️ **Backend Architecture** (Node.js / TypeScript)
 - 🗄️ **Hybrid Database Design** (PostgreSQL + MongoDB)
 - ⚡ **Async Processing** (Redis + BullMQ)
-- 🤖 **AI & RAG Pipelines** (LLM Orchestration)
+- 🤖 **Exploring AI & RAG Pipelines** (LLM Orchestration)
 - ☁️ **Cloud & DevOps** (Docker, AWS, CI/CD)
-- 👥 **Leadership** (Managed & mentored a team of 6 engineers)
+- 🤝 **Team Collaboration** (Working closely with a 6-engineer team)
 - 🎯 **Status** (Available for new opportunities)
 
 <br/>
 
 ### 🚀 What I bring to the table
 
-> I specialize in building highly scalable, fault-tolerant backend systems that deliver high performance even under massive load.
+> I specialize in building scalable, reliable backend systems that hold up under real production load.
 
-- 🏗️ **Backend Architecture** — Designed production systems serving thousands of concurrent users with `< 100ms` API latency.
-- 🗄️ **Hybrid Databases** — Seamlessly integrated PostgreSQL + MongoDB across distributed microservices.
-- ⚡ **Async Processing** — Built robust Redis + BullMQ pipelines for push notifications, heavy PDF generation, and payment webhooks.
-- 🤖 **AI / RAG Systems** — Implemented multi-provider LLM failovers (Gemini → Groq → Ollama), leveraging `pgvector` for accurate local and cloud retrieval.
-- ☁️ **DevOps & Cloud** — Managed deployments across AWS (EC2/S3) using Docker, Nginx, and automated GitHub Actions CI/CD pipelines.
-- 👥 **Leadership** — Acted as a Technical Lead for 6 engineers, owning critical architecture decisions and driving production releases.
+- 🏗️ **Backend Architecture** — Own end-to-end system design for production systems serving concurrent users with `< 100ms` API latency.
+- 🗄️ **Hybrid Databases** — Designed and integrated PostgreSQL + MongoDB architectures matched to data consistency needs.
+- ⚡ **Async Processing** — Built Redis + BullMQ pipelines for push notifications, PDF generation, and payment webhook reconciliation.
+- 🤖 **Exploring AI / RAG Systems** — Implemented multi-provider LLM failover (Gemini → Groq → Ollama) using `pgvector` for retrieval.
+- ☁️ **DevOps & Cloud** — Managed deployments on AWS (EC2/S3) using Docker, Nginx, and automated GitHub Actions CI/CD pipelines.
+- 🤝 **Collaboration** — Work closely with the engineering team on architecture decisions, PR reviews, and production releases.
 
 <br/>
 
@@ -110,9 +112,9 @@
 
 <br/>
 
-<h4 align="center">🧠 AI & Machine Learning</h4>
+<h4 align="center">🧠 AI & Machine Learning (Exploring)</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ollama-22D3EE?style=for-the-badge&logo=ollama&logoColor=black"/>
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Groq-FF6C37?style=for-the-badge&logo=groq&logoColor=white"/>
@@ -128,7 +130,6 @@
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -148,26 +149,35 @@
 
 ## GitHub Analytics
 
+<!--
+  NOTE: The badges below are generated by third-party services
+  (github-readme-stats, github-profile-trophy, etc.). These occasionally
+  go down or get rate-limited and show as broken/plain-text links —
+  that's a service-side issue, not a bug in this file. They typically
+  come back within a few hours. If a specific one stays broken long-term,
+  swap its subdomain/instance (community-run mirrors exist for most of these).
+-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushitrabadiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=A855F7&text_color=ffffff&border_radius=12" height="195" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rushitrabadiya&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=3B82F6&text_color=ffffff&border_radius=12" height="195" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushitrabadiya&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&layout=compact&border_radius=12&langs_count=8" height="195" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushitrabadiya&theme=onedark&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=ffffff&layout=compact&border_radius=12&langs_count=8" height="195" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rushitrabadiya&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakLabel=22D3EE&sideNums=ffffff&sideLabels=A855F7&dates=888888&border_radius=12" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=rushitrabadiya&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=3B82F6&currStreakLabel=22D3EE&sideNums=ffffff&sideLabels=3B82F6&dates=888888&border_radius=12" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushitrabadiya&theme=tokyo-night&bg_color=0D1117&color=A855F7&line=7C3AED&point=22D3EE&area=true&hide_border=true&border_radius=12&area_color=7C3AED" width="96%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushitrabadiya&theme=react-dark&bg_color=0D1117&color=3B82F6&line=2563EB&point=22D3EE&area=true&hide_border=true&border_radius=12&area_color=2563EB" width="96%" alt="Activity Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rushitrabadiya&theme=tokyonight&no-frame=true&no-bg=true&column=6" width="96%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rushitrabadiya&theme=onedark&no-frame=true&no-bg=true&column=6" width="96%" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rushitrabadiya&theme=tokyonight" width="96%" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rushitrabadiya&theme=github_dark" width="96%" alt="Profile Summary"/>
 </p>
 
 <br/>
@@ -182,24 +192,33 @@
 
 <br/>
 
-**Senior Software Developer** — Edzyme Tech Pvt Ltd _(Dec 2024 → Present)_
+**Senior Software Engineer** — Edzyme Tech Pvt Ltd _(Jan 2026 → Present)_
 
-> Owned end-to-end backend architecture and system design for **Kipi**, an enterprise SaaS/ERP platform.
-> Led a team of **6 engineers**, directing technical decisions, code architecture, and PR reviews.
-> Designed hybrid database architecture (PostgreSQL + MongoDB) across microservices.
-> Built async processing pipelines using Redis and BullMQ maintaining **API latency under 100ms** at peak load.
+> Promoted to own end-to-end backend architecture and system design for **Kipi**, an enterprise SaaS/ERP platform for educational institutes.
+> Collaborate closely with the engineering team on technical decisions, code architecture, and PR reviews.
+> Own deployment processes and production releases, maintaining **API latency under 100ms** at peak load.
 
 `Node.js` `TypeScript` `PostgreSQL` `MongoDB` `Redis` `BullMQ` `Docker` `AWS`
 
 ---
 
-**Backend Developer** — Stackdot _(Mar 2024 → Dec 2024)_
+**Back End Developer** — Edzyme Tech Pvt Ltd _(Dec 2024 → Jan 2026)_
 
-> Built and maintained scalable backend applications using Node.js, Express.js, and MongoDB within a **Turborepo-based monorepo**.
+> Built core backend features for **Kipi**, including fee billing, wallet transactions, and academy management modules.
+> Designed a hybrid database architecture (PostgreSQL + MongoDB) with asynchronous processing pipelines (Redis, BullMQ) for notifications, PDF generation, and payment reconciliation.
+> Integrated PhonePe payments and Socket.io real-time features, including live notifications and in-app chat.
+
+`Node.js` `TypeScript` `PostgreSQL` `MongoDB` `Redis` `BullMQ`
+
+---
+
+**Junior Backend Developer** — Stackdot _(Mar 2024 → Dec 2024)_
+
+> Built and maintained scalable backend applications using Node.js and Express.js across multiple projects.
+> Worked with both PostgreSQL and MongoDB, adapting the data layer to each project's needs.
 > Designed secure RESTful APIs with JWT-based authentication, RBAC, and input validation.
-> Applied clean architecture principles for production-ready, maintainable code.
 
-`Node.js` `Express.js` `MongoDB` `JWT` `Turborepo`
+`Node.js` `Express.js` `PostgreSQL` `MongoDB` `JWT`
 
 <br/>
 
@@ -265,7 +284,7 @@
   </a>
   &nbsp;
   <a href="https://rushitrabadiya.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:rushitrabadiya.work@gmail.com">
@@ -280,11 +299,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&text=Let's%20build%20something%20great!&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Let's%20build%20something%20great!&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Developer-Node.js%20%7C%20TypeScript%20%7C%20AWS-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Software%20Engineer-Node.js%20%7C%20TypeScript%20%7C%20AWS-2563EB?style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Ahmedabad-Gujarat%2C%20India-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ahmedabad-Gujarat%2C%20India-3B82F6?style=for-the-badge"/>
 </p>
