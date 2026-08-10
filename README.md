@@ -44,6 +44,12 @@
 
 <br/>
 
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Rushit Rabadiya Banner"/>
+</p>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -192,7 +198,9 @@ Software Engineer with 2.5 years of experience building scalable backend systems
 
 <br/>
 
-**Senior Software Engineer** — Edzyme Tech Pvt Ltd _(Jan 2026 → Present)_
+### Edzyme Tech Pvt Ltd _(Dec 2024 → Present · 1 yr 8 mos)_
+
+**Senior Software Engineer** _(Jan 2026 → Present)_
 
 > Promoted to own end-to-end backend architecture and system design for **Kipi**, an enterprise SaaS/ERP platform for educational institutes.
 > Collaborate closely with the engineering team on technical decisions, code architecture, and PR reviews.
@@ -200,9 +208,9 @@ Software Engineer with 2.5 years of experience building scalable backend systems
 
 `Node.js` `TypeScript` `PostgreSQL` `MongoDB` `Redis` `BullMQ` `Docker` `AWS`
 
----
+<br/>
 
-**Back End Developer** — Edzyme Tech Pvt Ltd _(Dec 2024 → Jan 2026)_
+**Back End Developer** _(Dec 2024 → Jan 2026)_
 
 > Built core backend features for **Kipi**, including fee billing, wallet transactions, and academy management modules.
 > Designed a hybrid database architecture (PostgreSQL + MongoDB) with asynchronous processing pipelines (Redis, BullMQ) for notifications, PDF generation, and payment reconciliation.
