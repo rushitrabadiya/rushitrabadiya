@@ -61,7 +61,7 @@
 > 📍 Ahmedabad, Gujarat, India | ⏱️ 2.5+ Years of Experience
 > ✉️ **Contact:** [rushitrabadiya.work@gmail.com](mailto:rushitrabadiya.work@gmail.com) | 🌐 **Portfolio:** [rushitrabadiya.github.io](https://rushitrabadiya.github.io/)
 
-Software Engineer with 2.5 years of experience building scalable backend systems using Node.js, Express.js, and TypeScript. Strong in RESTful API design, hybrid database architecture (PostgreSQL, MongoDB, Redis), and containerized deployment (Docker, AWS EC2/S3, CI/CD). Currently exploring applied AI as a growing area alongside backend engineering — hands-on experimentation with RAG pipelines, vector databases, LLM integration, and multi-provider AI orchestration.
+Software Engineer with 2.5+ years of professional experience — plus 6 months of backend development internship experience — building scalable backend systems using Node.js, Express.js, and TypeScript. Strong in RESTful API design, hybrid database architecture (PostgreSQL, MongoDB, Redis), and containerized deployment (Docker, AWS EC2/S3, CI/CD). Experienced owning backend architecture end-to-end, from system design through production deployment. Currently exploring applied AI as a growing area alongside backend engineering, with hands-on experimentation in RAG pipelines, vector databases, LLM integration, and multi-provider AI orchestration.
 
 **Core Competencies:**
 
@@ -198,7 +198,7 @@ Software Engineer with 2.5 years of experience building scalable backend systems
 
 <br/>
 
-### Edzyme Tech Pvt Ltd _(Dec 2024 → Present · 1 yr 8 mos)_
+### Edzyme Tech Pvt Ltd _(Dec 2024 → Present · 1 yr 9 mos)_
 
 **Senior Software Engineer** _(Jan 2026 → Present)_
 
@@ -220,13 +220,26 @@ Software Engineer with 2.5 years of experience building scalable backend systems
 
 ---
 
-**Junior Backend Developer** — Stackdot _(Mar 2024 → Dec 2024)_
+### Stackdot _(May 2023 → Dec 2024 · 1 yr 4 mos)_
+
+**Junior Backend Developer** _(Mar 2024 → Dec 2024)_
 
 > Built and maintained scalable backend applications using Node.js and Express.js across multiple projects.
 > Worked with both PostgreSQL and MongoDB, adapting the data layer to each project's needs.
 > Designed secure RESTful APIs with JWT-based authentication, RBAC, and input validation.
 
 `Node.js` `Express.js` `PostgreSQL` `MongoDB` `JWT`
+
+<br/>
+
+**Backend Developer Intern** _(May 2023 → Oct 2023)_
+
+> Designed and integrated RESTful APIs for communication between frontend and backend systems.
+> Worked with Node.js and Express.js to build backend services, learning asynchronous, middleware, and event-driven architectures.
+> Worked with PostgreSQL and MongoDB across different projects based on application requirements.
+> Collaborated with the development team to build scalable and maintainable backend solutions.
+
+`Node.js` `Express.js` `JavaScript` `PostgreSQL` `MongoDB` `REST APIs`
 
 <br/>
 
