@@ -30,6 +30,10 @@
   <a href="https://rushitrabadiya.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-rushitrabadiya.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://docs.google.com/document/d/1HLmEkHhwCA3JLOsUW6-aqnGnuCx-yLvB/export?format=pdf">
+    <img src="https://img.shields.io/badge/Resume-Download%20PDF-22D3EE?style=for-the-badge&logo=googledocs&logoColor=white"/>
+  </a>
 </p>
 
 <!-- <p align="center">
@@ -58,10 +62,10 @@
 
 > **Rushit Rabadiya**
 > _Senior Software Engineer @ Edzyme Tech Pvt Ltd_
-> 📍 Ahmedabad, Gujarat, India | ⏱️ 2.5+ Years of Experience
+> 📍 Ahmedabad, Gujarat, India | ⏱️ 3 Years of Experience (incl. 6 months internship)
 > ✉️ **Contact:** [rushitrabadiya.work@gmail.com](mailto:rushitrabadiya.work@gmail.com) | 🌐 **Portfolio:** [rushitrabadiya.github.io](https://rushitrabadiya.github.io/)
 
-Software Engineer with 2.5+ years of professional experience — plus 6 months of backend development internship experience — building scalable backend systems using Node.js, Express.js, and TypeScript. Strong in RESTful API design, hybrid database architecture (PostgreSQL, MongoDB, Redis), and containerized deployment (Docker, AWS EC2/S3, CI/CD). Experienced owning backend architecture end-to-end, from system design through production deployment. Currently exploring applied AI as a growing area alongside backend engineering, with hands-on experimentation in RAG pipelines, vector databases, LLM integration, and multi-provider AI orchestration.
+Software Engineer with 3 years of experience (including 6 months of backend development internship experience), building scalable backend systems using Node.js, Express.js, and TypeScript. Strong in RESTful API design, hybrid database architecture (PostgreSQL, MongoDB, Redis), and containerized deployment (Docker, AWS EC2/S3, CI/CD). Experienced owning backend architecture end-to-end, from system design through production deployment. Currently exploring applied AI as a growing area alongside backend engineering, with hands-on experimentation in RAG pipelines, vector databases, LLM integration, and multi-provider AI orchestration.
 
 **Core Competencies:**
 
