@@ -48,9 +48,9 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/banner.png" width="100%" alt="Rushit Rabadiya Banner"/>
-</p>
+</p> -->
 
 <br/>
 
